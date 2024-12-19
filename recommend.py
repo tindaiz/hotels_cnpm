@@ -7,7 +7,7 @@
 # def get_data_from_db():
 #     username = "tin"
 #     password = "Cnpm1234"
-#     host = "localhost"
+#     host = "192.168.2.215"
 #     database = "hotel_management"
 
 #     try:
