@@ -5,8 +5,8 @@
 
 # # Hàm kết nối MySQL và lấy dữ liệu
 # def get_data_from_db():
-#     username = "tin"
-#     password = "Cnpm1234"
+#     username = "root"
+#     password = "root"
 #     host = "192.168.2.215"
 #     database = "hotel_management"
 
